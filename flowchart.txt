@@ -1,0 +1,43 @@
+1. Importing the packages
+2. Exploring the dataset 
+	- EyeNet Master
+3. Image processing
+	- using ImageDataGenerator 
+		- Re-scaling the Image
+		- Shear Transformation
+		- Zooming the Image
+		- Horizontal Flip 
+		- Reshaping the Image 
+	
+4. Building the model 
+
+        - MobileNet
+        - Xception
+        - CNN
+	- UNet(CNN) SVM
+	- MobileNet + Xception
+   
+5. Training the model
+6. Building the model 
+
+
+
+
+Flask Framework
+----------------
+
+ 
+7. Flask Framework with Sqlite for signup and signin
+8. Importing the packages
+9. User Upload an image for analysis
+10. The given input is preprocessed 
+11. The trained model is used for predicting the result
+12. Final Outcome is display 
+
+Extension
+----------
+
+In the base paper, the author mentioned to use different models for analysis the EyeNet Master dataset with CNN, got 95% of accuracy, 
+However, we can further enhance the performance by exploring other techniques such as MobileNet, Xception for Classification 
+and MobileNet + Xception, gtom which MObileNet and Xception got 97 and 99% of accuracy respectively,
+With the above As an extension we can build the front end using flask framework for user testing with authentication.
